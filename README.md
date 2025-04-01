@@ -1,1 +1,1 @@
-🕵️ Encoding Test
+🕵 Encoding Testing
